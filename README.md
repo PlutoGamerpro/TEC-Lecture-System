@@ -108,6 +108,6 @@ If you're looking to deepen your understanding, here are some helpful resources 
 
 - 🌟 [Official Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/)
 - 📚 [My Coding Tutorials on YouTube](https://www.youtube.com/@CodeByScript)
-- 🚀 [Explore My Projects Here!](https://github.com/Code-By-Script?tab=stars)  
+- 🚀 [Explore My Projects Here!](https://github.com/PlutoGamerpro?tab=stars)  
 
 Feel free to explore these if you're interested! 😊
