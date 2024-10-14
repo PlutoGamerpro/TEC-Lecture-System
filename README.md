@@ -14,7 +14,7 @@
 ---
 ## 📁 **Project Structure** 🌳 
 ```bash
-TECForedrag/
+Foredrag/
 ├── Program.cs    # Main program that ties everything together
 ├── Person.cs     # Base class for common properties (Name and Age)
 ├── Lære.cs       # Inherits from Person and manages lectures
