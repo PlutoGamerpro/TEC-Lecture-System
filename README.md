@@ -97,3 +97,17 @@ public class Lokale
 ---
 ## 🎉 Conclusion 🎯
 - That's it! 🎓 You've just explored a basic lecture management system, showcasing the power of Object-Oriented Programming in C#. Whether you're a student, a teacher, or just a code enthusiast, there's something here for everyone! Feel free to explore, contribute, and learn! 💻💡
+
+---
+
+## 🧑‍🏫 **More Resources & Tutorials**
+
+Check out these amazing resources for more information and advanced coding skills: 📚
+
+If you're looking to deepen your understanding, here are some helpful resources you might find useful:
+
+- 🌟 [Official Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/)
+- 📚 [My Coding Tutorials on YouTube](https://www.youtube.com/@CodeByScript)
+- 🚀 [Explore My Projects Here!](https://github.com/Code-By-Script?tab=stars)  
+
+Feel free to explore these if you're interested! 😊
