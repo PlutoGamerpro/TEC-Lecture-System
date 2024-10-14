@@ -1,6 +1,6 @@
 # 🎓TEC Lecture System 🎤📚
 
-Welcome to the TEC Lecture System! This cool console app built in C# simulates a full-on lecture management system. Teachers create lectures, students enroll, and the magic happens when the teacher starts the lecture! Let's jump in and see how it all works! 💡🔥
+🎉Welcome to the TEC Lecture System! This cool console app built in C# simulates a full-on lecture management system. Teachers create lectures, students enroll, and the magic happens when the teacher starts the lecture! Let's jump in and see how it all works! 💡🔥
 
 ---
 
