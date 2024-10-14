@@ -1,0 +1,8 @@
+C:\Users\mgame\source\repos\Foredrag\Foredrag\bin\Debug\Foredrag.exe.config
+C:\Users\mgame\source\repos\Foredrag\Foredrag\bin\Debug\Foredrag.exe
+C:\Users\mgame\source\repos\Foredrag\Foredrag\bin\Debug\Foredrag.pdb
+C:\Users\mgame\source\repos\Foredrag\Foredrag\obj\Debug\TECForedrag.csproj.AssemblyReference.cache
+C:\Users\mgame\source\repos\Foredrag\Foredrag\obj\Debug\TECForedrag.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgame\source\repos\Foredrag\Foredrag\obj\Debug\TECForedrag.csproj.CoreCompileInputs.cache
+C:\Users\mgame\source\repos\Foredrag\Foredrag\obj\Debug\Foredrag.exe
+C:\Users\mgame\source\repos\Foredrag\Foredrag\obj\Debug\Foredrag.pdb
