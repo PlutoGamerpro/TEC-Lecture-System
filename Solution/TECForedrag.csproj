@@ -47,7 +47,7 @@
     <Compile Include="..\Models\Foredrag.cs" />
     <Compile Include="..\Models\Lokale.cs" />
     <Compile Include="..\Models\Lære.cs" />
-    <Compile Include=..\Models\Person.cs" />
+    <Compile Include="..\Models\Person.cs" />
     <Compile Include="..\Program\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
