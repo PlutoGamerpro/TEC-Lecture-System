@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Elev.cs" />
-    <Compile Include="Foredrag.cs" />
-    <Compile Include="Lokale.cs" />
-    <Compile Include="Lære.cs" />
-    <Compile Include="Person.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="..\Models\Elev.cs" />
+    <Compile Include="..\Models\Foredrag.cs" />
+    <Compile Include="..\Models\Lokale.cs" />
+    <Compile Include="..\Models\Lære.cs" />
+    <Compile Include=..\Models\"Person.cs" />
+    <Compile Include="..\Program\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
