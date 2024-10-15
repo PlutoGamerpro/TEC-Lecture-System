@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TEC-Lecture-System
+namespace TECLectureSystem
 {
     internal class Program
     {
