@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TECForedrag
+namespace TEC-Lecture-System
 {
     class Elev: Person
     {
