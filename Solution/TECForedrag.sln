@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1			
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TECForedrag", "TECForedrag.csproj", "{F515C2B5-8549-4A0A-8F11-5CCE74F4C106}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEC-Lecture-System", "TEC-Lecture-System.csproj", "{F515C2B5-8549-4A0A-8F11-5CCE74F4C106}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
