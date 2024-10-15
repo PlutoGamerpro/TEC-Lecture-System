@@ -49,10 +49,10 @@
     <Compile Include="..\Models\Lokale.cs" />
     <Compile Include="..\Models\Lære.cs" />
     <Compile Include="..\Models\Person.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="..\Solution\Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+     <None Include="..\Solution\Properties\App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
